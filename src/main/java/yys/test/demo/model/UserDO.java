@@ -1,8 +1,7 @@
 package yys.test.demo.model;
 
-import java.io.Serializable;
 
-public class UserDO implements Serializable {
+public class UserDO {
     private int id;
     private String username;
     private String age;
