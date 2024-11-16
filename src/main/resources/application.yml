@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  data:
+    redis:
+      host: 39.105.225.122
+      port: 6379
+      password: 492Hjbs1
